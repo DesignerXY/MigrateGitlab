@@ -1,2 +1,2 @@
 # MigrateGitlab
-通过 nodejs 迁移 gitlab 项目代码
+通过 NodeJS 迁移 GitLab 项目代码
